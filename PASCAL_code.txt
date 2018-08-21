@@ -1,4 +1,4 @@
-PROGRAM Part10;
+PROGRAM p1;
 VAR
    number     : INTEGER;
    a, b, c, x : INTEGER;
